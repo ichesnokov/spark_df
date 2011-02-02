@@ -1,0 +1,20 @@
+Скрипт получает месячную статистику провайдера СПАРК с сервера и выводит
+её на экран. Для работы скрипт необходимо наличие perl и модуля WWW::Mechanize.
+
+Установка:
+1. Отредактируйте скрипт и проставьте правильные значения для переменных
+   $login и $pass.
+   Или же можно установить переменные среды SPARK_LOGIN и SPARK_PASSWORD.
+2. Скопируйте скрипт в любое удобное для Вас место - например, в любой
+   каталог из $PATH.
+3. Наслаждайтесь.
+
+                                    *  *  *
+
+This script is printing monthly statistics from SPARK ISP.
+The only requirements are perl and WWW::Mechanize module.
+
+Installation:
+1. Edit the script and set right values for $login and $pass.
+2. Copy the script to any convenient place (probably to some dir from $PATH).
+3. Enjoy.
